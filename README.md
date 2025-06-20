@@ -1,4 +1,4 @@
-# 🚦 Traffic Light Controller (TLC) using FSM with Delay Counters
+# 🚦 Traffic Light Controller (TLC) using FSM with Delay Counters in VERILOG
 
 **By: Sai Srivardhan Lingala 🧠✨**
 
