@@ -70,7 +70,6 @@ The design prioritizes the **highway traffic**, only allowing the **country road
 ---
 
 ## 📦 Files Included
-
 | File Name                      | 📌 Icon | Description                                                                 |
 |-------------------------------|:--------:|-----------------------------------------------------------------------------|
 | `TLC.v`                       | 🔧       | Main FSM-based traffic light controller design (Verilog HDL)               |
@@ -79,6 +78,7 @@ The design prioritizes the **highway traffic**, only allowing the **country road
 | `State definition.png`        | 🧾       | Descriptive table showing state encodings and light mappings               |
 | `Traffic light controller.png`| 🖼️       | System-level layout of the traffic light logic                             |
 | `State transition diagram.png`| 🔁       | FSM state transition diagram for visualizing the controller behavior       |
+| `Waveform.png`                | 📊       | GTKWave waveform view showing signal transitions over time                 |
 | `README.md`                   | 📘       | Project documentation and instructions (this file!)                        |
 
 ---
