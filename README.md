@@ -1,10 +1,10 @@
-# 🚦 Traffic Light Controller (TLC) using FSM with Delay Counters in VERILOG
+#  Traffic Light Controller (TLC) using FSM with Delay Counters in VERILOG
 
-**By: Sai Srivardhan Lingala 🧠✨**
+**By: Sai Srivardhan Lingala **
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project implements a **Finite State Machine (FSM)**-based **Traffic Light Controller** for a highway and a country road intersection. It uses an **internal delay counter** to manage transition delays **without inserting extra wait states**.
 
@@ -12,9 +12,9 @@ The design prioritizes the **highway traffic**, only allowing the **country road
 
 ---
 
-## 💡 Problem Statement
+## Problem Statement
 
-### 🛣️ Scenario:
+###  Scenario:
 
 * **Two Roads:**
 
@@ -29,14 +29,14 @@ The design prioritizes the **highway traffic**, only allowing the **country road
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
-* ✅ **Priority-based FSM Design**
-* ⏱️ **Built-in Delay Handling** using a 4-bit counter (no external wait states)
-* 💡 **Sensor-based Activation** for side-road traffic
-* 🧪 **Fully Simulated Testbench** with waveform support (GTKWave)
-* 🧾 **Comprehensive VCD Dump for Debugging**
-* 🧼 Clean Verilog Best Practices (blocking/non-blocking, parameterized states)
+*  **Priority-based FSM Design**
+*  **Built-in Delay Handling** using a 4-bit counter (no external wait states)
+*  **Sensor-based Activation** for side-road traffic
+*  **Fully Simulated Testbench** with waveform support (GTKWave)
+*  **Comprehensive VCD Dump for Debugging**
+*  Clean Verilog Best Practices (blocking/non-blocking, parameterized states)
 
 ---
 
